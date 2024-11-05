@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20vh;
+}
+
+.satu {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.satu img {
+  padding-bottom: 20px;
+}
+
+.dua {
+  padding: 50px;
+}
